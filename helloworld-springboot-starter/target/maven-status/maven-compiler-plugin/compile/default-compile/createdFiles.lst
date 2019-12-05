@@ -1,0 +1,4 @@
+com\shangxue\helloworld\PersonService.class
+com\shangxue\helloworld\PersonProperties.class
+com\shangxue\helloworld\PersonServiceAutoConfiguration.class
+META-INF\spring-configuration-metadata.json
